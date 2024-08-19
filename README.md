@@ -1,2 +1,3 @@
 # Aman-Kumar-
-This is my Git repositary
+This is my Git repository
+I'M AMAN.
